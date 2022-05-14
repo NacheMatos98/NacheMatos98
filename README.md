@@ -4,9 +4,9 @@
   
   <a href="https://github.com/NacheMatos98">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NacheMatos98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NacheMatos98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacheMatos98&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacheMatos98&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
   
   
