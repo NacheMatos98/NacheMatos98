@@ -1,13 +1,20 @@
 ### Olá... 👽
 
-<div align="center">
+<div align="left">
   
   <a href="https://github.com/NacheMatos98">
     
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NacheMatos98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=NacheMatos98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacheMatos98&layout=compact&langs_count=10&theme=tokyonight"/>
+  </a>
+    
+   <a href="https://github.com/NacheMatos98">
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacheMatos98&layout=compact&langs_count=10&theme=tokyonight"/>
+  
+  </a>
 </div>
+  
+  
   
   
 <div style="display: inline_block"><br>
@@ -20,17 +27,13 @@
   
   <img align="center" alt="Nash-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="center" alt="Nash-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  <img align="center" alt="Nash-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  
   <img align="center" alt="Nash-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   
   <img align="center" alt="Nash-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   
-  <img align="center" alt="Nash-Photo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+
   
-  <img align="center" alt="Nash-Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
+  
   
   
   
